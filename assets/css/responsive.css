@@ -1,0 +1,576 @@
+@media(min-width: 1680px){
+    .heading-white {
+        font-size: 60px;
+    }
+}
+
+@media(max-width: 1440px){
+    .container{
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    .whatsapp-img img {
+        height: 200px;
+        padding-right: 20px;
+    }
+    .heading-white-lg {
+        font-size: 40px;
+    }
+    .desc-white {
+        font-size: 14px;
+    }
+    .update-btn span {
+        font-size: 20px;
+        margin-right: 60px;
+    }
+    .heading-white {
+        font-size: 40px;
+        line-height: 1;
+    }
+    .hero-banner-content {
+        bottom: 50px;
+    }
+    .heading-grey {
+        font-size: 40px;
+    }
+    .whatsapp-content-right {
+        position: relative;
+        top: 18px;
+    }
+}
+
+@media(min-width: 1300px){
+    .hero-banner {
+        padding-top: 42%;
+    }
+    .display-margin-neg {
+        margin: -150px 0 60px 0;
+    }
+}
+
+@media(max-width: 1280px){
+    .display-margin-neg {
+        margin: -120px 0 60px 0;
+    }
+    .ptb-90 {
+        padding: 60px 0;
+    }
+    .pt_90 {
+        padding-top: 60px;
+    }
+    .hero-banner {
+        padding-top: 55%;
+    }
+    .search-btn {
+        width: 65px;
+        height: 90px;
+    }
+    .search-btn span {
+        font-size: 35px;
+    }
+    .heading-white {
+        font-size: 35px;
+        line-height: 1;
+    }
+    .heading-grey {
+        font-size: 35px;
+    }
+    .heading-white-lg {
+        font-size: 35px;
+    }
+    .title-grey {
+        font-size: 24px;
+    }
+    .desc-grey {
+        font-size: 16px;
+    }
+    .desc-grey br,
+    .desc-white br {
+        display: none;
+    }
+    .contact-info ul li p {
+        display: block;
+    }
+    .contact-info ul li span {
+        width: 100%;
+        display: block;
+    }
+    .update-btn span {
+        font-size: 18px;
+    }
+    .white-btn-lg {
+        padding: 0px 20px;
+    }
+    .whatsapp-content-right {
+        top: unset;
+    }
+    .booking-price-heading {
+        font-size: 12px;
+    }
+    .booking-price-heading span, .price, .booking-content-right a, .eminities-content p {
+        font-size: 14px;
+    }
+}
+
+@media(max-width: 1024px){
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    
+    .hero-banner {
+        padding-top: 60%;
+    }
+    .search-form {
+        padding: 15px;
+        border-radius: 15px;
+    }
+    .search-btn {
+        width: 55px;
+        height: 70px;
+    }
+    .search-btn span {
+        font-size: 30px;
+    }
+    
+    .whatsapp-img img {
+        height: 200px;
+    }
+    
+    .footer-desc {
+        font-size: 16px;
+    }
+    .page-links ul li a {
+        font-size: 14px;
+    }
+    .contact-info ul li p {
+        font-size: 14px;
+        margin: 0;
+    }
+    .footer-bottom-link p {
+        font-size: 14px;
+        margin: 15px 0;
+    }
+   
+}
+@media(min-width: 992px) and (max-width: 1280px){
+    .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .whatsapp-img {
+        min-width: 240px;
+    }
+    .heading-green {
+        font-size: 24px;
+    }
+    .heading-white-lg {
+        font-size: 30px;
+    }
+    .update-btn img {
+        height: 40px;
+    }
+    .update-btn {
+        height: 85px;
+    }
+    .sports-eminities ul {
+        justify-content: space-evenly;
+    }
+    .eminities-content .check-icon {
+        margin: auto;
+    }
+    .eminities-content {
+        display: block;
+    }
+    .eminities-content p {
+        margin-top: 5px;
+        text-align: center;
+    }
+}
+@media(min-width: 992px){
+    .site-header .site-menu {
+        width: 100%;
+    }
+    .toggleMenu {
+        display: none;
+    }
+    #dropdownMenu {
+        border: none;
+        top: 30px;
+        left: 10px;
+    }  
+    .loggedIn-user-wrap {
+        display: none
+    }  
+}
+@media(max-width: 991px){
+    .pt_90 {
+        padding-top: 30px;
+    }
+    .ptb-90 {
+        padding: 45px 0;
+    }
+    .ptb-60 {
+        padding: 30px 0;
+    }
+    .red-btn-lg {
+        border-radius: 8px;
+        font-size: 14px;
+        padding: 0px 30px;
+        height: 50px;
+    }
+    .white-btn-lg {
+        border-radius: 8px;
+    }
+    .heading-white {
+        font-size: 24px;
+        line-height: 1.2;
+    }
+    .heading-grey {
+        font-size: 24px;
+        line-height: 1.2;
+    }
+    .heading-green {
+        font-size: 18px;
+    }
+    .heading-white-lg {
+        font-size: 24px;
+    }
+    .desc-white {
+        font-size: 14px;
+    }
+    .desc-grey {
+        font-size: 14px;
+        line-height: 1.8;
+    }
+    
+    .title-grey {
+        font-size: 18px;
+    }
+    .site-header {
+        padding: 15px 0;
+    }
+    .site-header .navbar-brand {
+        z-index: 9;
+    }
+    .site-header .nav-link {
+        padding: 0 !important;
+    }
+    .site-header .nav-link:hover {
+        color: #fff;
+    }
+    .site-header .navbar-nav {
+        min-width: 300px;
+        width: 100%;
+    }
+    .overflow_hidden {
+        overflow: hidden;
+    }
+    #navDropdownLink {
+        margin-right: 0px;
+    }
+    #navDropdownLink .arrow-down-icon {
+        right: 0px;
+        color: #fff;
+    }
+
+    .site-menu.OpenNav {
+        width: 100%;
+    }
+    .site-menu {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 0;
+        bottom: 0;
+        overflow: hidden;
+        background: #080f18;
+        -webkit-transition: width 0.9s cubic-bezier(0.4, 0, 0.2, 1);
+        transition: width 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+        background-image: linear-gradient(120deg, #ca0f2c 0%, #375ead 100%);
+        padding-top: 110px;
+    }
+    .menu-icon {
+        overflow: hidden;
+        width: 40px;
+        height: 40px;
+        border: 2px solid #fff;
+        -webkit-border-radius: 9%;
+        -moz-border-radius: 9%;
+        border-radius: 9%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        cursor: pointer;
+    }
+    
+    .move-left {
+        float: left;
+    }
+    
+    .menu-icon.no-border {
+        border: none;
+    }
+    
+    .menu-icon span {
+        height: 10%;
+        width: 80%;
+        margin: 10% auto;
+        background: #fff;
+        display: block;
+        position: relative;
+        top: 50%;
+        margin-top: -5%;
+    }
+    
+    .menu-icon.close-icon span {
+        -webkit-box-shadow: 0px 10px #fff, 0px -10px #fff;
+        -moz-box-shadow: 0px 10 #fff, 0px -10 #fff;
+        box-shadow: 0px 10px #fff, 0px -10px #fff;
+        -webkit-transition: transform .5s .5s cubic-bezier(0.73, 0.3, 0.32, 0.75), box-shadow .5s 1s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        -moz-transition: transform .5s .5s cubic-bezier(0.73, 0.3, 0.32, 0.75), box-shadow .5s 1s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        transition: transform .5s .5s cubic-bezier(0.73, 0.3, 0.32, 0.75), box-shadow .5s 1s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        border-radius: 5px;
+    }
+    
+    .menu-icon.close-icon.active span {
+        -webkit-box-shadow: 90px 12px #fff, -90px -12px #fff;
+        -moz-box-shadow: 90px 12px #fff, -90px -12px #fff;
+        box-shadow: 90px 12px #fff, -90px -12px #fff;
+        -webkit-transform: translate(0%, 0%) rotate(315deg);
+        -moz-transform: translate(0%, 0%) rotate(315deg);
+        transform: translate(0%, 0%) rotate(315deg);
+        -webkit-transition: transform .5s .5s cubic-bezier(0.73, 0.3, 0.32, 0.75), box-shadow .5s 0s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        -moz-transition: transform .5s .5s cubic-bezier(0.73, 0.3, 0.32, 0.75), box-shadow .5s 0s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        transition: transform .5s .5s cubic-bezier(0.73, 0.3, 0.32, 0.75), box-shadow .5s 0s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+    }
+    
+    .menu-icon.close-icon span::after {
+        content: '';
+        width: 100%;
+        height: 4px;
+        background-color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -90px) rotate(90deg);
+        -moz-transform: translate(-50%, -90px) rotate(90deg);
+        transform: translate(-50%, -90px) rotate(90deg);
+        transition: transform .5s 0s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        -webkit-transition: transform .5s 0s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        -moz-transition: transform .5s 0s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        border-radius: 5px;
+    }
+    
+    .menu-icon.close-icon.active span::after {
+        -webkit-transform: translate(-50%, -50%) rotate(90deg);
+        -moz-transform: translate(-50%, -50%) rotate(90deg);
+        transform: translate(-50%, -50%) rotate(90deg);
+        transition: transform .5s 1s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        -webkit-transition: transform .5s 1s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+        -moz-transition: transform .5s 1s cubic-bezier(0.73, 0.3, 0.32, 0.75);
+    }
+    
+    .toggleMenu {
+        position: relative;
+        border: 0;
+        background: transparent;
+        z-index: 9;
+    }    
+
+    .site-header .nav-item {
+        width: 100%;
+        padding: 15px;
+        border-bottom: 1px solid #e0e0e08c;
+    }
+    .site-header .nav-item:last-child{
+        border: none;
+    }
+    .site-header .login-link {
+        margin-left: 0;
+        padding: 0 !important;
+    }
+    #dropdownMenu {
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+    .login-user-nav {
+        display: none;
+    }
+    .loggedIn-user-wrap img {
+        max-width: 40px;
+        margin-right: 10px;
+    }
+    
+    .loggedIn-user-wrap {
+        display: flex;
+        align-items: center;
+    }
+    .red-btn {
+        color: #fff !important;
+    }
+    .site-header .login-link:before{
+        display: none
+    }
+    .search-form label {
+        font-size: 18px;
+    }
+    .search-form .form-control::placeholder, .search-form select {
+        font-size: 14px;
+    }
+    
+    .select-wrap .arrow-down-icon {
+        font-size: 30px;
+    }
+    .sports-name {
+        font-size: 18px;
+    }
+    .sports-location {
+        font-size: 14px;
+        min-height: 45px;
+        line-height: 1.5;
+    }
+    .whatsapp-wrap {
+        padding: 30px 0;
+    }
+    .whatsapp-img img {
+        height: 150px;
+        padding: 0;
+        top: 0;
+    }
+    .whatsapp-content-right {
+        margin-top: 30px;
+    }
+    .update-btn {
+        height: 60px;
+    }
+    .update-btn span {
+        font-size: 14px;
+        margin-right: 30px;
+    }
+    .update-btn img {
+        height: 30px;
+    }
+    .whatsapp-content-left {
+        display: block;
+        text-align: center;
+    }
+    .subscribe-form .form-control {
+        padding: 0px 15px 0px 50px;
+        height: 50px;
+    }
+    .subscribe-form .input-group-prepend span {
+        font-size: 25px;
+    }
+    .subscribe-form .input-group {
+        margin-bottom: 15px;
+    }
+    .subscribe-form .form-row {
+        padding: 30px 0;
+    }
+    .submit-btn span {
+        margin-right: 15px;
+        font-size: 25px;
+    }
+    .footer-logo-wrap img {
+        margin-bottom: 15px;
+    }
+    .footer-desc {
+        font-size: 14px;
+        padding: 0 0 15px 0;
+    }
+    .footer-heading {
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    .page-links ul {
+        padding-bottom: 15px;
+    }
+    .page-links ul li {
+        padding: 5px 0;
+    }
+    .booking-list .sports-list-card:hover {
+        transform: unset;
+    }
+    .booking-list ul li {
+        flex-flow: wrap;
+    }
+    .booking-list .sports-list-card {
+        margin-bottom: 15px;
+    }
+    .sports-eminities ul {
+        padding: 15px 0;
+    }
+    
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    .display-margin-neg {
+        margin: -100px 0 30px 0;
+    }
+}
+
+@media(max-width: 767px){
+    .display-margin-neg {
+        margin: 0;
+    }
+    .hero-banner {
+        height: 75vh;
+    }
+    .hero-banner-content {
+        bottom: 30px;
+        width: 100%;
+    }
+    
+    .sports-list ul li{
+        display: block;
+        margin: 0;
+    }
+    .sports-list-card {
+        margin-bottom: 15px;
+        padding: 15px;
+    }
+    .seprator {
+        display: none;
+    }
+    .search-form {
+        margin-bottom: 30px;
+    }
+    
+    .select-wrap {
+        padding: 0 0px 0 45px;
+    }
+    .select-wrap .form-select {
+        padding-right: 25px;
+        line-height: 2;
+    }
+    .select-wrap .arrow-down-icon {
+        right: 0;
+    }
+    .search-btn span {
+        font-size: 25px;
+    }
+    .search-btn {
+        width: 46px;
+        height: 46px;
+    }
+    .sports-eminities ul {
+        justify-content: space-evenly;
+    }
+    .eminities-content .check-icon {
+        margin: auto;
+    }
+    .eminities-content {
+        display: block;
+    }
+    .eminities-content p {
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+}
+@media(max-width: 550px){
+    
+}
